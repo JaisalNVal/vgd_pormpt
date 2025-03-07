@@ -12,4 +12,4 @@ Console.Write(messages);
 Console.Write(" messages in your inbox. The temperature is ");
 Console.Write(temperature);
 Console.Write(" celsius.");
-Today I learned how to write 
+Today I learned how to write some new code.
